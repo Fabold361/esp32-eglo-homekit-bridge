@@ -1,0 +1,11 @@
+# Real credentials – never commit
+secrets.h
+awox_raw.json
+
+# Build / IDE
+build/
+.pio/
+.vscode/
+*.bin
+*.elf
+__pycache__/
